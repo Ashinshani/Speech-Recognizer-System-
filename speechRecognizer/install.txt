@@ -1,0 +1,4 @@
+install this installation before run this app
+
+1. pip install SpeechRecognition pyttsx3
+2. pip install pyaudio

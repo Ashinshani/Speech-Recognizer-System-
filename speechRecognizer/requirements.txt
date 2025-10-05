@@ -1,0 +1,5 @@
+streamlit>=1.37.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14; platform_system == "Windows"
+pyttsx3>=2.90
+
